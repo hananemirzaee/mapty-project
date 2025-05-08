@@ -13,7 +13,6 @@ Workout List: A sidebar lists all workouts with relevant information.
 
 Data Persistence: Workouts are stored in the browser's local storage, ensuring data remains after page reloads.
 
-Responsive Design: Optimized for various screen sizes and devices.
 
 ## 🛠️ Technologies Used
 HTML5: Structuring the application.
